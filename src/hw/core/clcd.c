@@ -31,7 +31,7 @@ void delay_us(uint32_t us){  // 72MHz
     }
 }
 //[출처] STM32 Nucleo F103RB - us delay 만들기|작성자 제플린
-
+//git test
 //#define delay_ms HAL_Delay
 
 
